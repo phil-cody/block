@@ -284,10 +284,6 @@
     padding-inline: 0;
   }
 
-  .work-process__content_indented {
-    padding-inline-start: 10px;
-  }
-
   .work-process__content h3 {
     font-size: 18px;
     letter-spacing: 0;
